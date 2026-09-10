@@ -17,6 +17,15 @@ My focus is not only on writing code, but also on building maintainable software
 During my software development internship at **Metatavu Oy**, I contributed to production applications using React, TypeScript, AWS Lambda and DynamoDB. My work included developing frontend features, building REST endpoints, implementing email notifications, validating requests, testing application flows and troubleshooting issues through logs and APIs.
 
 ## 🚀 Featured Project
+### Configurable Overtime Management Portal
+
+A full-stack application for managing employee overtime through configurable calculation rules and role-based approval workflows for employees, managers and HR administrators.
+
+**Technologies:** Next.js, MongoDB, JWT and Role-Based Access Control
+
+- [View the GitHub repository](https://github.com/raorizwan1092/overtime-management-portal)
+- [Open the live application](https://portal-of-hr.vercel.app/signin)
+- [Read the published thesis](https://urn.fi/URN:NBN:fi:amk-2026060321732)
 
 ### HR and Overtime Management Portal
 
