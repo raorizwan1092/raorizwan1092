@@ -1,4 +1,34 @@
-## Hi there 👋
+# Hi, I’m Rizwan Hafeez 👋
+
+I’m a Full-Stack Developer based in Helsinki, Finland. I enjoy understanding how complete systems work—from user interactions and application flow to APIs, databases and cloud services.
+
+My focus is not only on writing code, but also on building maintainable software with clear architecture, reliable data flow and practical solutions to real business problems.
+
+## 🛠️ Technical Skills
+
+- **Frontend:** React, Next.js, TypeScript, JavaScript, MUI and Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs and AWS Lambda
+- **Databases:** MongoDB, DynamoDB, MySQL and PostgreSQL
+- **Cloud and Tools:** AWS, Git, GitHub, OpenAPI, Jira, ESLint and SonarCloud
+- **Testing:** Manual testing, API testing, debugging and basic automated testing
+
+## 💼 Professional Experience
+
+During my software development internship at **Metatavu Oy**, I contributed to production applications using React, TypeScript, AWS Lambda and DynamoDB. My work included developing frontend features, building REST endpoints, implementing email notifications, validating requests, testing application flows and troubleshooting issues through logs and APIs.
+
+## 🚀 Featured Project
+
+### HR and Overtime Management Portal
+
+A full-stack application for managing employee overtime requests and approval workflows. It includes JWT authentication, role-based access and configurable rules for employees, managers and HR administrators.
+
+**Built with:** Next.js, TypeScript, MongoDB, JWT and RBAC
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/raorizwanhafeez)
+- [GitHub](https://github.com/raorizwan1092)
+- Based in Helsinki, Finland
 
 <!--
 **raorizwan1092/raorizwan1092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
